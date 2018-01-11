@@ -1,0 +1,9 @@
+Question,Type,Offered Answers (CSV)
+What is your age?,numerical,
+To what gender do you most identify with?,multiple choice,Male|Female|Other|Decline to state
+How often do you play video games?,multiple choice,Not at all|At least a few times a month|At least once a week|More than twice a week
+What is your level of experience/proficiency with computers?,multiple choice,"None|Beginner (Example: I can use the internet, I can use my e-mail, I can use programs such as Microsoft Word or Microsoft PowerPoint)|Intermediate (Example: I can use the internet, e-mail, and Microsoft Office. In addition, I have the ability to create graphics and make spreadsheets.)|Advanced (Example: I am proficient in programming and scripting)"
+Check all items that you use on a weekly basis:,multiple choice,
+What organization do you work for?,fill-in,
+What is your profession?,fill-in,
+How many years of experience do you have in your current profession?,numerical,
